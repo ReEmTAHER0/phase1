@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(7, 44, 61);
+}
+.ss{
+    border: 2px solid;
+    border-radius: 20px;
+    border-color: rgb(255, 255, 255);
+    padding: 20px; 
+    width: 400px;
+    height: 160px;
+    resize: both;
+    overflow: auto;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.s2s{
+    border: 2px solid;
+    border-radius: 20px;
+    border-color: rgb(255, 255, 255);
+    padding: 20px; 
+    width: 400px;
+    height: 160px;
+    resize: both;
+    overflow: auto;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.a1{
+color: cornsilk;
+}
+.a2{
+    color:cornsilk;
+}
+.a{
+    color: indianred;
+}
+.aa{
+    color: indianred;
+}
+.na{
+    text-align: center;
+    font-family: cursive;
+    color: indianred;
+}
+

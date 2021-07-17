@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>blog page</title>
+    <link rel="stylesheet" href="CSS/blog.css">
+
+</head>
+<body>
+    <img src="pl.jpeg" width="100%" height="300px">
+<br>
+<br>
+<h1 class="na">- - -Blog Page- - -</h1>
+<br>
+<br>
+   <div class=ss>
+       <h3 class="a">BIG DATA</h3>
+       <p class="a1"> Graph Connectivity is the single most persistent characteristic of today’s networks environment.<br> 
+           Networks with even a modest degree of complexity are not random, which means connections are neither evenly distributed nor static.<br>
+            simple statistical analysis alone fails to sufficiently describe connected systems.<br>
+             Therefore, most big data analytics today do not effectively model the connectedness of real-world systems <br>
+             and have fallen short in extracting value from huge volumes of interrelated data.<br> 
+             Therefore, with the increasing of large scale graphs, designing scalable systems for processing and analysing large scale graphs has become one of the timeliest problems facing the big data research community.<br>
+              In general, distributed processing of big graphs is a challenging task due to their size and the inherent irregular structure of graph computations. In this paper,<br>
+               we discuss how can the graphs connected in distributed environment to handling large chunks of the data.<br>
+            <a href="http://www.ijcstjournal.org/Vol7Issue6No1#">source</a></p>
+   </div> 
+   <br>
+   <br>
+   <br>
+   <div class=s2s>
+    <h3 class="aa">Education and the COVID-19 pandemic</h3>
+    <p class=a2>The COVID-19 pandemic is a huge challenge to education systems. This Viewpoint offers guidance to teachers,<br>
+         institutional heads, and officials on addressing the crisis.<br>
+          What preparations should institutions make in the short time available and how do they address students’ needs by level <br>
+          and field of study? Reassuring students and parents is a vital element of institutional response.<br>
+           In ramping up capacity to teach remotely, schools and colleges should take advantage of asynchronous learning,<br>
+            which works best in digital formats. As well as the normal classroom subjects, <br>
+            teaching should include varied assignments and work that puts COVID-19 in a global and historical context.<br>
+             When constructing curricula, designing student assessment first helps teachers to focus. <br>
+             Finally, this Viewpoint suggests flexible ways to repair the damage to students’ learning trajectories<br>
+              once the pandemic is over and gives a list of resources.<br>
+         </p>
+   </div>
+<br>
+<br>
+
+<script src="JS/1.js"></script>
+
+</body>
+</html>

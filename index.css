@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    height: 100px;
+    width: 100%;
+    background-image: linear-gradient(to right, rgb(28, 48, 44), rgb(204, 212, 218));
+}
+#logoBox{
+    width: 30%;
+    height: 100%;
+    float: left;
+    background-color: #fafafa;
+}
+#h1Header{
+    float: right;
+    line-height: 100px;
+    padding: 0 15px;
+}
+#logo{
+    height: 100%;
+    border-radius: 50%;
+}
+#tit{
+    text-align: center;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+#pra{
+ text-align: center;
+ font-size: large;
+font-family: cursive;
+}
+.click{
+ border 1px solid #700;
+ padding: 15px;
+ color: #fff;
+ background: #700;
+ border-radius: 5px;
+ transition: all 0.5;
+ font-size: 20px;
+display: block;
+margin: auto;
+}
